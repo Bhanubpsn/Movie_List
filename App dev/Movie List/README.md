@@ -23,3 +23,5 @@ This Project Contains the following tools/features ->
 -List View.
 
 
+<img src = "https://github.com/Bhanubpsn/Images_for_projects/blob/master/Movie%20list/FIrst_Screen.jpg">
+<img src = "https://github.com/Bhanubpsn/Images_for_projects/blob/master/Movie%20list/Second_Screen.jpg">
